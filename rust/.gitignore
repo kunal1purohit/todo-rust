@@ -1,0 +1,23 @@
+# Binaries and intermediates
+/target/
+/**/*.rs.bk
+
+# Rust package manager lockfile (optional, include if your project is a library)
+/Cargo.lock
+
+# Build artifacts
+debug/
+release/
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.iml
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Other OS-specific files
+.DS_Store
+Thumbs.db
